@@ -10,6 +10,7 @@ public class ExampleForJenkisApplication {
 		SpringApplication.run(ExampleForJenkisApplication.class, args);
 		
 		System.err.println("This is the Jenkins Example");
+		System.err.println("This is the Jenkins Example (UPDATED)");
 	}
 
 }
